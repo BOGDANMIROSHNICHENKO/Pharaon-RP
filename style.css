@@ -1,0 +1,98 @@
+@media(max-width:1440px){
+    .heade__menu a{
+        font-family: cursive;
+        text-decoration: none;
+        color: #fff;
+        font-size: 20px;
+    }
+    .heade__menu a{
+        font-family: cursive;
+        position: relative;
+        top: 100px;
+        padding: 0px 10px;
+    }
+    .heade__menu{
+        font-family: cursive;
+        text-align: center;
+    }
+    .heade__soz{
+        font-family: cursive;
+        position: relative;
+        top: 200px;
+        left: 20px;
+    }
+    .heade__soz img{
+        padding: 0px 10px;
+    }
+    .content__zag{
+        font-family: cursive;
+        font-style: normal;
+        font-size: 30px;
+        text-decoration: underline white;
+        text-align: center;
+        position: relative;
+        top: 200px;
+        color: #fff;
+    }
+    .content__text{
+        font-family: cursive;
+        font-style: normal;
+        font-size: 18px;
+        text-decoration: underline white;
+        text-align: center;
+        position: relative;
+        top: 200px;
+        color: #fff;
+    }
+    .content__download a{
+        font-family: cursive;
+        left: 100px;
+        position: relative;
+       top: 660px;
+        text-decoration: none;
+        color: #fff;
+        font-size: 26px;
+    }
+    .heade__logo{
+        color: #fff;
+        font-family: cursive;
+    }
+   
+}
+@media(min-width:1920px){
+   .heade__menu a{
+       text-decoration: none;
+       font-family: cursive;
+       color: #fff;
+       font-size: 25px;
+   }
+   .heade__menu :hover{
+       text-decoration: underline #fff;
+   }
+   .heade__menu{
+       margin: 70px 720px;
+       
+   }
+   .heade__menu a{
+       padding: 0px 60px;
+   }
+   .content__download a{
+      position: relative;
+      left: 1000px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+    font-family: cursive;
+}
+.content__text{
+    font-style: normal;
+    font-size: 30px;
+    text-decoration: underline white;
+    text-align: center;
+    position: relative;
+    font-family: cursive;
+    top: 200px;
+    color: #fff;
+}
+
+}
